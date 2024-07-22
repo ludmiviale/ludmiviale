@@ -2,9 +2,9 @@
 
 ### Sobre mim / Acerca de mí
 
-🇧🇷 Bem-vindo ao meu perfil no GitHub! Sou Ludmila Grisel Viale, Desenvolvedora Full Stack Web, apaixonada pelo setor de TI e com grande motivação para continuar aprendendo. Estou sempre disposta a adquirir novos conhecimentos, explorar novas tecnologias e superar desafios.
+🇧🇷 Bem-vindo ao meu perfil no GitHub! Sou Ludmila Grisel Viale, Desenvolvedora Frontend na Trueway Realty, apaixonada pelo setor de TI e com grande motivação para continuar aprendendo. Estou sempre disposta a adquirir novos conhecimentos, explorar novas tecnologias e superar desafios.
 
-🇦🇷 ¡Bienvenido a mi cuenta de GitHub! Soy Ludmila Grisel Viale, Full stack Web Developer, apasionada por el sector de IT y con una gran motivación para seguir aprendiendo. Siempre estoy dispuesta a adquirir nuevos conocimientos, explorar nuevas tecnologías y superar desafíos.
+🇦🇷 ¡Bienvenido a mi cuenta de GitHub! Soy Ludmila Grisel Viale, Frontend Developer en Trueway Realty, apasionada por el sector de IT y con una gran motivación para seguir aprendiendo. Siempre estoy dispuesta a adquirir nuevos conocimientos, explorar nuevas tecnologías y superar desafíos.
 
 ### Experiência e Conhecimentos / Experiencia y Conocimientos
 - Linguagens de programação/Lenguajes de programación: Java y JavaScript.
